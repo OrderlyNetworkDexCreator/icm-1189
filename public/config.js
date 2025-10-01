@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "icm_gg",
   "VITE_ORDERLY_BROKER_NAME": "ICM",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/icm_gg",
   "VITE_SEO_SITE_NAME": "ICM.gg - Internet Capital Markets",
   "VITE_SEO_SITE_DESCRIPTION": "ICM DEX (Internet Capital Markets) is a next-generation platform that brings traditional finance and decentralized finance together.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/icm-1189/",
+  "VITE_SEO_SITE_URL": "https://dex.icm.gg",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@icm_gg",
